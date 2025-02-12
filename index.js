@@ -1,4 +1,3 @@
-// leader-election.js
 const Redis = require("ioredis");
 const WebSocket = require("ws");
 
